@@ -1,6 +1,9 @@
 # RokoNeural strategy
 # Stupid simple triple layer NN strategy
 # IT SHOULD BE OPTIMIZED BEFORE FIRST RUN USING HYPEROPT
+# For better results in terms of profit or/and win ratio
+# I recommend not to optimize sell space at beginning.
+# Optimize roi and trailing instead.
 
 # pragma pylint: disable=missing-docstring, invalid-name, pointless-string-statement
 # flake8: noqa: F401
